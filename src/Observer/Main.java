@@ -16,7 +16,7 @@ public class Main {
         p.supprimerObservateur(s1);
 
         System.out.println();
-        System.out.println("---    APRES SUPPRESSION DE SUB CONDITION  ----");
+        System.out.println("---    APRES SUPPRESSION DE SUB CONDITION3  ----");
         System.out.println();
 
         p.notifierObservateur(new MessageMeteo(21,14,2));
